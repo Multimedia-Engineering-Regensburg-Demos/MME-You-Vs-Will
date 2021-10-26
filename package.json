@@ -1,0 +1,18 @@
+{
+    "name": "you-vs-will",
+    "version": "1.0.1",
+    "description": "Test your skill against the great barde!",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "setup": "npm install",
+        "start": "node index.js"
+    },
+    "author": "Alexander Bazo & Jakob Fehle",
+    "license": "MIT",
+    "dependencies": {
+        "eslint": "^8.0.1",
+        "express": "^4.17.1",
+        "open": "^8.3.0"
+    }
+}
